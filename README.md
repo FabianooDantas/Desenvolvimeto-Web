@@ -80,7 +80,7 @@ Resumo das aulas serão colocados aqui
 
 - Bancos não relacionais
 
-- Schemas dinâmicos
+- Esquemas dinâmicos
 
 - Alta escalabilidade horizontal
 
